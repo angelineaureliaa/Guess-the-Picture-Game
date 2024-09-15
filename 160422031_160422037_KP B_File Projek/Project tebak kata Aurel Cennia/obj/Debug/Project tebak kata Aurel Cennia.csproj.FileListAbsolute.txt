@@ -1,0 +1,76 @@
+C:\Users\cennia\source\repos\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\bin\Debug\Project tebak kata Aurel Cennia.exe.config
+C:\Users\cennia\source\repos\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\bin\Debug\Project tebak kata Aurel Cennia.exe
+C:\Users\cennia\source\repos\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\bin\Debug\Project tebak kata Aurel Cennia.pdb
+C:\Users\cennia\source\repos\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.AssemblyReference.cache
+C:\Users\cennia\source\repos\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.Form1.resources
+C:\Users\cennia\source\repos\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.Properties.Resources.resources
+C:\Users\cennia\source\repos\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.GenerateResource.cache
+C:\Users\cennia\source\repos\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.CoreCompileInputs.cache
+C:\Users\cennia\source\repos\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.exe
+C:\Users\cennia\source\repos\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.pdb
+C:\Users\cennia\source\repos\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.Form2.resources
+C:\Users\cennia\source\repos\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.Form3.resources
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.AssemblyReference.cache
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.SuggestedBindingRedirects.cache
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.exe
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.pdb
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\bin\Debug\Project tebak kata Aurel Cennia.exe.config
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\bin\Debug\Project tebak kata Aurel Cennia.exe
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\bin\Debug\Project tebak kata Aurel Cennia.pdb
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormLevel4.resources
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormLevel3.resources
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormLevel2.resources
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormHome.resources
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormLevel.resources
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.txtAnswer.resources
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.Properties.Resources.resources
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.GenerateResource.cache
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.CoreCompileInputs.cache
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormEnd.resources
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormLevel5.resources
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormLevel6.resources
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormLevel7.resources
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormLevel8.resources
+D:\Users\User\Downloads\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormLevel9.resources
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.AssemblyReference.cache
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.exe
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.pdb
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\bin\Debug\Project tebak kata Aurel Cennia.exe.config
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\bin\Debug\Project tebak kata Aurel Cennia.exe
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\bin\Debug\Project tebak kata Aurel Cennia.pdb
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.AssemblyReference.cache
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormEnd.resources
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormHome.resources
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormLevel.resources
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.Properties.Resources.resources
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.GenerateResource.cache
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.CoreCompileInputs.cache
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.exe
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.pdb
+E:\~Semester Ganjil 2022 2023\UBAYA ALPRO\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormPlay.resources
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\bin\Debug\Project tebak kata Aurel Cennia.exe.config
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\bin\Debug\Project tebak kata Aurel Cennia.exe
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\bin\Debug\Project tebak kata Aurel Cennia.pdb
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.AssemblyReference.cache
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.SuggestedBindingRedirects.cache
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormHome.resources
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormLevel.resources
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormPlay.resources
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.Properties.Resources.resources
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.GenerateResource.cache
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.CoreCompileInputs.cache
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.exe
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\PROJEK UAS AUREL CENNIA\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.pdb
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\160422031_160422037_KP B_File Projek\Project tebak kata Aurel Cennia\bin\Debug\Project tebak kata Aurel Cennia.exe.config
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\160422031_160422037_KP B_File Projek\Project tebak kata Aurel Cennia\bin\Debug\Project tebak kata Aurel Cennia.exe
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\160422031_160422037_KP B_File Projek\Project tebak kata Aurel Cennia\bin\Debug\Project tebak kata Aurel Cennia.pdb
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\160422031_160422037_KP B_File Projek\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.AssemblyReference.cache
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\160422031_160422037_KP B_File Projek\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.SuggestedBindingRedirects.cache
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\160422031_160422037_KP B_File Projek\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormHome.resources
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\160422031_160422037_KP B_File Projek\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormLevel.resources
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\160422031_160422037_KP B_File Projek\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.FormPlay.resources
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\160422031_160422037_KP B_File Projek\Project tebak kata Aurel Cennia\obj\Debug\Project_tebak_kata_Aurel_Cennia.Properties.Resources.resources
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\160422031_160422037_KP B_File Projek\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.GenerateResource.cache
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\160422031_160422037_KP B_File Projek\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.csproj.CoreCompileInputs.cache
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\160422031_160422037_KP B_File Projek\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.exe
+E:\USB DRIVE\KULIAH SEMESTER 1\ALGORITHM AND PROGRAMMING\160422031_160422037_KP B_File Projek\Project tebak kata Aurel Cennia\obj\Debug\Project tebak kata Aurel Cennia.pdb
